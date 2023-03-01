@@ -2,7 +2,7 @@
 The js file within this repository can do the following  
 
 ## Create a Vehicle Class
-Using a set of arguments [make, model, year]  
+Uses a set of arguments to create the vehicle [make, model, year]  
 Throws an error if any of the three arguments are not filled  
 Produces a string that explains the vehicle [toString()]  
 Honks [honk()]  
